@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66D416D7-6CFD-49CC-9ABE-A232FA6C8F23"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B42AAB7D-0ED2-459A-A9FB-CC363314A58D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchDataForLogin(from:loginModel:completionblock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B42AAB7D-0ED2-459A-A9FB-CC363314A58D - 504bb16598d208c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static OwnerSellerLoginFlow.NetworkService.fetchData(from: Swift.String, loginModel: OwnerSellerLoginFlow.LoginViewModel, completionblock: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1690">
+               </Location>
+               <Location
+                  uuid = "B42AAB7D-0ED2-459A-A9FB-CC363314A58D - 153322250606ae42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static OwnerSellerLoginFlow.NetworkService.fetchDataForLogin(from: Swift.String, loginModel: OwnerSellerLoginFlow.LoginViewModel, completionblock: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1690">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0433026-26E2-4873-9AD3-F015A32DC6BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchDataForLogin(from:loginModel:completionblock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0433026-26E2-4873-9AD3-F015A32DC6BD - 89b68e08d0d31ea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static OwnerSellerLoginFlow.NetworkService.fetchData(from: Swift.String, loginModel: OwnerSellerLoginFlow.LoginViewModel, completionblock: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "E0433026-26E2-4873-9AD3-F015A32DC6BD - b1ce39a4d32aac1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static OwnerSellerLoginFlow.NetworkService.fetchDataForLogin(from: Swift.String, loginModel: OwnerSellerLoginFlow.LoginViewModel, completionblock: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "217">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57F9CB99-AD28-492E-A6B1-5B976E834096"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "login()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57F9CB99-AD28-492E-A6B1-5B976E834096 - 6307d42fea0cc5e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "854">
+               </Location>
+               <Location
+                  uuid = "57F9CB99-AD28-492E-A6B1-5B976E834096 - 6307d42fea0cc5cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "854">
+               </Location>
+               <Location
+                  uuid = "57F9CB99-AD28-492E-A6B1-5B976E834096 - 6307d42fea0cc5cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9F25C40-9EEF-4A3D-8B12-8F5CAC90D49D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E9F25C40-9EEF-4A3D-8B12-8F5CAC90D49D - 6307d42fea0cc20d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1301">
+               </Location>
+               <Location
+                  uuid = "E9F25C40-9EEF-4A3D-8B12-8F5CAC90D49D - 6307d42fea0cc20d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "950">
+               </Location>
+               <Location
+                  uuid = "E9F25C40-9EEF-4A3D-8B12-8F5CAC90D49D - 6307d42fea0cc399"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.LoginViewModel.login() async throws -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1581">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44443BC4-FED8-4953-A455-5BD72192A633"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "44443BC4-FED8-4953-A455-5BD72192A633 - b122e851e6586d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "44443BC4-FED8-4953-A455-5BD72192A633 - d4bba62ce79ad4fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "44443BC4-FED8-4953-A455-5BD72192A633 - b122e851e6586d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "44443BC4-FED8-4953-A455-5BD72192A633 - d4bba62ce79ad4fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2FF509-EB1B-4BA0-9174-B8A6F73E8649"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AC2FF509-EB1B-4BA0-9174-B8A6F73E8649 - d4bba62ce79adb1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "AC2FF509-EB1B-4BA0-9174-B8A6F73E8649 - d4bba62ce79adb1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5166D224-0E07-45EB-8450-30AB7CDEDEA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5166D224-0E07-45EB-8450-30AB7CDEDEA3 - d4bba62ce79adb98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "353">
+               </Location>
+               <Location
+                  uuid = "5166D224-0E07-45EB-8450-30AB7CDEDEA3 - d4bba62ce79adb98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;OwnerSellerLoginFlow.HomePage, OwnerSellerLoginFlow.LandingScreen&gt; in OwnerSellerLoginFlow.ContentView.body.getter : some"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "753">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5768F95F-B31D-4669-8150-C64F872681EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AuthService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 5e63ca47d281599d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of OwnerSellerLoginFlow.AuthService.userSession : Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 72509407529708ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.userSession.getter : Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 682284a8aa7542dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.userSession.setter : Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - b615000f962573ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.userSession.modify : Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 73091b921d3890"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.userSession.modify : Swift.Optional&lt;OwnerSellerLoginFlow.User&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - b6fcf9e4acc29514"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.$userSession.getter : Combine.Published&lt;Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;&gt;.Publisher"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 56489d0733eb5b97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.$userSession.setter : Combine.Published&lt;Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;&gt;.Publisher"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 3f42051073133a80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.$userSession.modify : Combine.Published&lt;Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;&gt;.Publisher"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 37e721ba2d597b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.$userSession.modify : Combine.Published&lt;Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 1aa7ef50b36c80c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shared"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 36ad4ad60a3312e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.shared.unsafeMutableAddressor : OwnerSellerLoginFlow.AuthService"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 1aa7ef50b36c8084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shared"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "5768F95F-B31D-4669-8150-C64F872681EC - 36ad4ad60a3312aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.shared.unsafeMutableAddressor : OwnerSellerLoginFlow.AuthService"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D19FBBE-5D65-4B34-A17A-0E9CBF9ED9F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setUpSubscriber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D19FBBE-5D65-4B34-A17A-0E9CBF9ED9F0 - f23bafaa65068e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "2D19FBBE-5D65-4B34-A17A-0E9CBF9ED9F0 - 311101fd8766aa6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; () in OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "2D19FBBE-5D65-4B34-A17A-0E9CBF9ED9F0 - 311101fd8766aa6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; () in OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "2D19FBBE-5D65-4B34-A17A-0E9CBF9ED9F0 - 311101fd8766aaad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; () in OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "99">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84EBDEA8-DF6B-4C45-8592-00AEEE794E68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84EBDEA8-DF6B-4C45-8592-00AEEE794E68 - b7525a301b0cd817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.init(userSession: Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; OwnerSellerLoginFlow.AuthService"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "84EBDEA8-DF6B-4C45-8592-00AEEE794E68 - 96144553e5ec4bce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.init() -&gt; OwnerSellerLoginFlow.AuthService"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  uuid = "84EBDEA8-DF6B-4C45-8592-00AEEE794E68 - 96144553e5ec4bce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.AuthService.init() -&gt; OwnerSellerLoginFlow.AuthService"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "783">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31F5BEBC-475B-40F8-AA7A-B1ABC6DC3D82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31F5BEBC-475B-40F8-AA7A-B1ABC6DC3D82 - e3c45d29c0a103c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentViewModel.init() -&gt; OwnerSellerLoginFlow.ContentViewModel"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "31F5BEBC-475B-40F8-AA7A-B1ABC6DC3D82 - e3c45d29c0a103a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentViewModel.init() -&gt; OwnerSellerLoginFlow.ContentViewModel"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2357A14D-728F-4F9B-8E06-84C9056B3E63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setUpSubscriber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2357A14D-728F-4F9B-8E06-84C9056B3E63 - f23bafaa65068e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "2357A14D-728F-4F9B-8E06-84C9056B3E63 - 311101fd8766aa08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; () in OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "2357A14D-728F-4F9B-8E06-84C9056B3E63 - f23bafaa65068e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "2357A14D-728F-4F9B-8E06-84C9056B3E63 - 311101fd8766aa4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;OwnerSellerLoginFlow.User&gt;) -&gt; () in OwnerSellerLoginFlow.ContentViewModel.setUpSubscriber() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90D22602-DCD7-48AC-83DC-6DAE0D046A06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "90D22602-DCD7-48AC-83DC-6DAE0D046A06 - fe4e8d4f42c0d5b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of OwnerSellerLoginFlow.ContentView.contentViewModel : OwnerSellerLoginFlow.ContentViewModel"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "90D22602-DCD7-48AC-83DC-6DAE0D046A06 - ddf07bcbaa45e652"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentView.contentViewModel.getter : OwnerSellerLoginFlow.ContentViewModel"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "90D22602-DCD7-48AC-83DC-6DAE0D046A06 - 9f892fbb7b2c2991"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OwnerSellerLoginFlow.ContentView.$contentViewModel.getter : SwiftUI.ObservedObject&lt;OwnerSellerLoginFlow.ContentViewModel&gt;.Wrapper"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "90D22602-DCD7-48AC-83DC-6DAE0D046A06 - ca3c7aa7aa04bfad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of OwnerSellerLoginFlow.ContentView.init(contentViewModel: @autoclosure () -&gt; OwnerSellerLoginFlow.ContentViewModel) -&gt; OwnerSellerLoginFlow.ContentView"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A021109B-0BD6-4DFC-96E0-D25491A925BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E308D639-391A-4511-B87C-38E5574DF9E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59D89FCC-53E2-4947-8CD5-D8BA6EA99DFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "logout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59D89FCC-53E2-4947-8CD5-D8BA6EA99DFC - 26cf938188ef2174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.AuthService.logout() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1705">
+               </Location>
+               <Location
+                  uuid = "59D89FCC-53E2-4947-8CD5-D8BA6EA99DFC - 26cf938188ef2300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OwnerSellerLoginFlow.AuthService.logout() -&gt; ()"
+                  moduleName = "OwnerSellerLoginFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/OwnerSellerLoginFlow/OwnerSellerLoginFlow/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1254">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68E758D0-FF17-4ED7-8041-44C2F0F3F989"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1D86554-2F98-4AAB-B145-C6D07A06495C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnerSellerLoginFlow/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

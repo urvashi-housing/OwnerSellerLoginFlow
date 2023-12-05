@@ -14,6 +14,17 @@
 		C6C322622B1DC8C4007235CA /* OwnerSellerLoginFlowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322612B1DC8C4007235CA /* OwnerSellerLoginFlowTests.swift */; };
 		C6C3226C2B1DC8C4007235CA /* OwnerSellerLoginFlowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3226B2B1DC8C4007235CA /* OwnerSellerLoginFlowUITests.swift */; };
 		C6C3226E2B1DC8C4007235CA /* OwnerSellerLoginFlowUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3226D2B1DC8C4007235CA /* OwnerSellerLoginFlowUITestsLaunchTests.swift */; };
+		C6C3227B2B1DC8EF007235CA /* LandingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3227A2B1DC8EF007235CA /* LandingScreen.swift */; };
+		C6C3227D2B1DCB50007235CA /* PostProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3227C2B1DCB50007235CA /* PostProperty.swift */; };
+		C6C3227F2B1DCC99007235CA /* ChooseUserType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3227E2B1DCC99007235CA /* ChooseUserType.swift */; };
+		C6C322812B1DD5E3007235CA /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322802B1DD5E3007235CA /* LoginPage.swift */; };
+		C6C322832B1DD737007235CA /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322822B1DD737007235CA /* LoginViewModel.swift */; };
+		C6C322852B1DDAD8007235CA /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322842B1DDAD8007235CA /* NetworkService.swift */; };
+		C6C322872B1DDFDE007235CA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322862B1DDFDE007235CA /* User.swift */; };
+		C6C322892B1DE67E007235CA /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C322882B1DE67E007235CA /* Constants.swift */; };
+		C6C3228B2B1DF236007235CA /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3228A2B1DF236007235CA /* ContentViewModel.swift */; };
+		C6C3228D2B1DF423007235CA /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3228C2B1DF423007235CA /* AuthService.swift */; };
+		C6C3228F2B1DF5F1007235CA /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C3228E2B1DF5F1007235CA /* HomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		C6C322672B1DC8C4007235CA /* OwnerSellerLoginFlowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OwnerSellerLoginFlowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6C3226B2B1DC8C4007235CA /* OwnerSellerLoginFlowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnerSellerLoginFlowUITests.swift; sourceTree = "<group>"; };
 		C6C3226D2B1DC8C4007235CA /* OwnerSellerLoginFlowUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnerSellerLoginFlowUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C6C3227A2B1DC8EF007235CA /* LandingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingScreen.swift; sourceTree = "<group>"; };
+		C6C3227C2B1DCB50007235CA /* PostProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostProperty.swift; sourceTree = "<group>"; };
+		C6C3227E2B1DCC99007235CA /* ChooseUserType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseUserType.swift; sourceTree = "<group>"; };
+		C6C322802B1DD5E3007235CA /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
+		C6C322822B1DD737007235CA /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		C6C322842B1DDAD8007235CA /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		C6C322862B1DDFDE007235CA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C6C322882B1DE67E007235CA /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C6C3228A2B1DF236007235CA /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		C6C3228C2B1DF423007235CA /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		C6C3228E2B1DF5F1007235CA /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,8 +118,19 @@
 			children = (
 				C6C322502B1DC8C1007235CA /* OwnerSellerLoginFlowApp.swift */,
 				C6C322522B1DC8C1007235CA /* ContentView.swift */,
+				C6C3228E2B1DF5F1007235CA /* HomePage.swift */,
+				C6C3228A2B1DF236007235CA /* ContentViewModel.swift */,
 				C6C322542B1DC8C3007235CA /* Assets.xcassets */,
 				C6C322562B1DC8C3007235CA /* Preview Content */,
+				C6C3227A2B1DC8EF007235CA /* LandingScreen.swift */,
+				C6C3227C2B1DCB50007235CA /* PostProperty.swift */,
+				C6C3227E2B1DCC99007235CA /* ChooseUserType.swift */,
+				C6C322802B1DD5E3007235CA /* LoginPage.swift */,
+				C6C322822B1DD737007235CA /* LoginViewModel.swift */,
+				C6C322842B1DDAD8007235CA /* NetworkService.swift */,
+				C6C322862B1DDFDE007235CA /* User.swift */,
+				C6C322882B1DE67E007235CA /* Constants.swift */,
+				C6C3228C2B1DF423007235CA /* AuthService.swift */,
 			);
 			path = OwnerSellerLoginFlow;
 			sourceTree = "<group>";
@@ -257,8 +290,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6C3227D2B1DCB50007235CA /* PostProperty.swift in Sources */,
+				C6C3227F2B1DCC99007235CA /* ChooseUserType.swift in Sources */,
+				C6C322852B1DDAD8007235CA /* NetworkService.swift in Sources */,
+				C6C3228D2B1DF423007235CA /* AuthService.swift in Sources */,
 				C6C322532B1DC8C1007235CA /* ContentView.swift in Sources */,
+				C6C3227B2B1DC8EF007235CA /* LandingScreen.swift in Sources */,
+				C6C3228F2B1DF5F1007235CA /* HomePage.swift in Sources */,
+				C6C322892B1DE67E007235CA /* Constants.swift in Sources */,
+				C6C322872B1DDFDE007235CA /* User.swift in Sources */,
+				C6C3228B2B1DF236007235CA /* ContentViewModel.swift in Sources */,
+				C6C322812B1DD5E3007235CA /* LoginPage.swift in Sources */,
 				C6C322512B1DC8C1007235CA /* OwnerSellerLoginFlowApp.swift in Sources */,
+				C6C322832B1DD737007235CA /* LoginViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

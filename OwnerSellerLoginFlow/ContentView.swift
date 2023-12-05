@@ -8,14 +8,16 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject var contentViewModel = ContentViewModel()
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        Group{
+            if contentViewModel.userSession != nil{
+                HomePage(userProfile: contentViewModel.userSession ?? User())
+            }
+            else{
+                LandingScreen()
+            }
         }
-        .padding()
     }
 }
 
